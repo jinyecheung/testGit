@@ -18,6 +18,7 @@ public class TestGit implements mygit {
 		System.out.println("TestGit.show()");
 	}
 	
+	
 	public static void akak() {
 		System.out.println("TestGit.akak()");
 	}
